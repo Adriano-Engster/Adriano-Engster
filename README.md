@@ -1,7 +1,7 @@
 ## Olá me chamo Adriano José Engster
 
 - 🔭 Iniciando na área de programação
-- 🌱 Estudando JavaScript 
+- 🌱 Estudando C# .NET
 - 📫 Contate-me: adrianojoseengster@gmail.com
 
 <div align="center">
